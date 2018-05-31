@@ -1,6 +1,6 @@
 # 39MIKU
 
-This app has ONLY benn test on my Samsung Note 8
+This app has ONLY been test on my Samsung Note 8
 
 Feel free to install it on your phone and bless it work...
 
