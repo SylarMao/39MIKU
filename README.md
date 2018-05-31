@@ -8,7 +8,7 @@ Start the app and aim the following image
 
 Here the magic begin
 
-![scan 1](https://github.com/fs1237/39MIKU/blob/master/DUED-1229.jpg)
+<div align=center><img src="https://github.com/fs1237/39MIKU/blob/master/DUED-1229.jpg"/></div>
 
 # Tools used
 
