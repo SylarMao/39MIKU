@@ -18,7 +18,7 @@ AR support: Vufario
 
 Animation converter: MMD4Mecanim
 
-#Update History
+# Update History
 
 2018.6.1 Demo version 0.1b release, add: touch screen to add/remove stage
 
